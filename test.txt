@@ -2,3 +2,6 @@
 GIT과 GITHUB
 
 #test2.txt 파일을 생성하고 내용 기입 후, 해당 파일을 GitHub에 업로드하기
+#git push -u origin master
+
+GitHub에서 수정됨
